@@ -34,5 +34,5 @@ for multiple selectbox, just add multiple in selectbox.
 ```
 
 ```
-<script href="selecto.min.js"></script>
+<script src="selecto.min.js"></script>
 ```
